@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/adrien/Documents/SCIA_cours/INDE/ReadDeltaLake/target/scala-2.13/readdeltalake_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadDeltaLake.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/adrien/Documents/SCIA_cours/INDE/ReadDeltaLake/target/scala-2.13/classes/ReadDeltaLake.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	core-default.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/adrien/Documents/SCIA_cours/INDE/ReadDeltaLake/target/scala-2.13/classes/core-default.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReadDeltaLake$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/adrien/Documents/SCIA_cours/INDE/ReadDeltaLake/target/scala-2.13/classes/ReadDeltaLake$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/adrien/Documents/SCIA_cours/INDE/ReadDeltaLake/target/scala-2.13/classes/log4j2.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
